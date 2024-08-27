@@ -1,5 +1,5 @@
 [package]
-name = "1foreverhd/topbarplus"
+name = "nicholasforeman/topbarplus"
 description = "Construct dynamic and intuitive topbar icons. Enhance the appearance and behaviour of these icons with features such as themes, dropdowns and menus."
 license = "MPL2"
 version = "3.0.2"
